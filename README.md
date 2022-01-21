@@ -1,9 +1,10 @@
 
 # Hi, I'm Vedant! 👋 Welcome to my portfolio website
 
-[![Code Quality Score](<https://www.code-inspector.com/project/26035/score/svg>)](<https://frontend.code-inspector.com/public/project/26035/Vedant/dashboard>)  [![Code Grade](<https://www.code-inspector.com/project/26035/status/svg>)](<https://frontend.code-inspector.com/public/project/26035/Vedant/dashboard>) ![](https://img.shields.io/github/repo-size/pandyaved98/Vedant?label=Repo%20Size)
 <br />
+
 [![ForTheBadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+<br />
 
 As a Developer, Programmer and Open Source contributor one has to have a portfolio site. It will become the place where one can show their skills and achievements. Here, I am presenting my portfolio website with the help of GitHub Pages. Hope you guys find this useful.
 ## 🚀 About Me
